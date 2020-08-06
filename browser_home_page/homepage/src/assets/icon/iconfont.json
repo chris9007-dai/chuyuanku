@@ -6,11 +6,46 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "1177631",
-      "name": "order form",
-      "font_class": "orderform",
-      "unicode": "e608",
-      "unicode_decimal": 58888
+      "icon_id": "688166",
+      "name": "T",
+      "font_class": "t",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "569478",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7712756",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "11219350",
+      "name": "form",
+      "font_class": "form",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11903681",
+      "name": "call",
+      "font_class": "call",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "1174321",
+      "name": "nav",
+      "font_class": "nav",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
     },
     {
       "icon_id": "4889788",

@@ -66,14 +66,12 @@ export default {
 
 <style lang="less" scoped>
 .login_container {
-  position: fixed;
-  z-index: 0;
+  position: relative;
   width: 100%;
-  height: 100%;
+  height: 600px;
   background-image: linear-gradient(125deg, #00ff00, #a20055, #77ffee);
   background-size: 400%;
   animation: bganimation 15s infinite;
-  z-index: 1;
 }
 @keyframes bganimation {
   0% {
@@ -116,7 +114,6 @@ main {
 }
 #search {
   position: absolute;
-  float: right;
   width: 10%;
   height: 100%;
   right: 0;
@@ -131,4 +128,5 @@ main {
     background-color: lightskyblue;
   }
 }
+
 </style>

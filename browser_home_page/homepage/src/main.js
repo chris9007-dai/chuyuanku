@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import './plugins/element.js'
 import 'element-ui/lib/theme-chalk/index.css'
+import 'element-ui/lib/theme-chalk/display.css';
 import store from './store'
 import router from './router/index.js'
 /*  全局样式  */

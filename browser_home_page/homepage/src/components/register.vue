@@ -1,15 +1,12 @@
 <template>
-  <div class="container">
-  ...
-</div>
+  <div :class="{'background':true}">
+    
+  </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
 <style>
-
 </style>

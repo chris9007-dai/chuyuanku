@@ -40,6 +40,9 @@
         </el-form-item>
       </el-form>
     </div>
+    <div class="register_box">
+      
+    </div>
   </div>
 </template>
 <script>
@@ -120,7 +123,6 @@ export default {
   left: 0;
   right: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  z-index: 2;
 }
 .login_box {
   width: 450px;
